@@ -61,7 +61,7 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-ddef runner
+def runner
   # code runner here
   welcome
   total = initial_round
